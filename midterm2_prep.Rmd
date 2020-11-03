@@ -1,0 +1,80 @@
+---
+title: Biostatistics Midterm 2 Prep
+---
+
+## Problem 1
+
+In a report produced by the US Department of Health and Human Services it is recommended that adults should do at least 150 minutes a week of moderate-intensity, or 75 minutes a week of vigorous-intensity aerobic physical activity, or an equivalent combination of moderate- and vigorous-intensity aerobic activity. A poll of 85 randomly selected undergrads at the University of Iowa was taken to estimate the proportion of undergrads at the University of Iowa who meet these guidelines. Of the 85 polled, 36 reported that they met these physical activity guidelines.
+
+### What is your best estimate for the proportion of undergrads at the University of Iowa who meet these physical activity guidelines?
+
+\
+
+### What is the standard error of this estimate?
+
+\
+
+### Create a 95% one-proportion $z$-interval confidence interval for this estimate:
+
+
+\pagebreak
+
+
+### What does the 95% confidence interval mean?
+
+\
+\
+\
+
+
+## Problem 2
+
+We are given a confidence interval of (0.52, 0.65) for estimating the proportion of residents in Iowa City who eat fast-food at least once per week:
+
+### What is the point estimate for the proportion?
+
+\
+\
+\
+
+### What is the margin or error?
+
+\
+\
+
+### If this were given as a 95% confidence interval, what sample size $n$ would have been used to produce it?
+
+\
+\
+\
+\
+\
+\
+
+### Let's say that we are given that the sample size $n = 155$, approximately what percent confidence interval would this be?
+
+
+\pagebreak
+
+
+## Problem 3
+
+### Assume we wish to estimate the proportion of Iowa City and Coralville residents whose favorite season is Fall. For the most conservative estimate of $p$, what size sample would we need in order to estimate the proportion to within one percent with 95% confidence?
+
+\
+\
+\
+\
+\
+
+
+## Problem 4
+
+Several years worth of research suggests that Excedrin is effective at relieving migraines in about 36% of subjects. A company claims to make an herbal remedy for migraines that is just as effective as Excedrin but using only natural ingredients and no acetaminophen, aspirin or caffeine. 600 migraine sufferers were randomly prescribed to take the herbal remedy for their migraines, and of those 600 subjects, 192 reported that their migraines abated. Perform a hypothesis test to assess the company's claim.
+
+
+\pagebreak
+
+
+### What does the p-value mean here?
+
